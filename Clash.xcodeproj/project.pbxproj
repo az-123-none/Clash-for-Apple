@@ -1109,10 +1109,10 @@
 		};
 		D99E3A9B27EB0CFE00464266 /* XCRemoteSwiftPackageReference "ClashKit" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/Clash-for-Apple/ClashKit.git";
+			repositoryURL = "https://github.com/jstzzyt/ClashKit.git";
 			requirement = {
 				kind = exactVersion;
-				version = 1.2.2;
+				version = 1.8.18;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
